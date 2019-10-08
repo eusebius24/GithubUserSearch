@@ -1,6 +1,6 @@
 'use strict';
 
-const token = "4cc2a2f73075585839a19911d9075d96f70958b8";
+const token = "e50d8035ae7ab49c5fcfed226381a52ce1169562";
 const searchURL = "https://api.github.com/search/repositories?q=user:";
 
 
